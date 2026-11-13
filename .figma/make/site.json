@@ -1,0 +1,10 @@
+{
+  "description": "A personal finance assistant for students to track spending, manage budgets, and get conversational money guidance with clear, reliable financial insights.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
